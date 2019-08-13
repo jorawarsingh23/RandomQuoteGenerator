@@ -1,0 +1,23 @@
+
+
+@font-face {
+    font-family: 'lainiedayshregular';
+    src: url('font/laine.woff2') format('woff2'),
+         url('font/laine.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.calFont {
+	font-family: "lainiedayshregular";
+	text-align: center;
+	font-size: 30px;
+    font-size: 3.5vw;
+	}
+
+
+img {
+	opacity: 0.4;
+}
+
